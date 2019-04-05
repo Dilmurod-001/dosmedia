@@ -1,0 +1,2 @@
+# dosmedia
+duke.kz
